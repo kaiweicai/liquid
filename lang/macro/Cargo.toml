@@ -1,8 +1,9 @@
+cargo-features = ["edition2021"]
 [package]
 name = "liquid_lang_macro"
 version = "1.0.0-rc2"
 authors = ["vita-dounai <lichenxi.webank@gmail.com>"]
-edition = "2018"
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
